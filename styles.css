@@ -1,0 +1,67 @@
+h1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+hr {
+    border-style: groove;
+}
+
+form {
+    word-spacing: 2px;
+}
+
+input {
+    background-color: #58accd;
+    border: solid black;
+    font-size: large;
+}
+
+textarea {
+    background-color: #58accd;
+    border: solid black;
+    font-size: large;
+}
+
+
+label {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#t1 {
+    padding: 20px;
+}
+
+#t1 tr {
+    line-height: 30px;
+
+}
+
+#t1 tr td {
+    margin: 10px;
+    padding: 10px;
+    word-spacing: 4px;
+}
+
+#bdy {
+    background: rgb(67, 105, 226);
+    background: linear-gradient(90deg, rgba(67, 105, 226, 1) 0%, rgba(217, 141, 141, 1) 50%, rgba(255, 235, 97, 1) 100%);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#cnt {
+    margin: 5px;
+    padding: 5px;
+}
+
+.btn {
+    background-color: #48757baf;
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: solid black;
+
+    border-top-left-radius: 41%;
+    border-end-end-radius: 41%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    height: 40px;
+    width: 100px;
+}
